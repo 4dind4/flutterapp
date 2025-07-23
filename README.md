@@ -1,6 +1,22 @@
-# adin_tubes
+# Flutter Mobile App – adin_tubes
 
-A new Flutter project.
+This mobile app was developed using **Flutter** as part of a final project for the *Mobile Programming* course at Telkom University
+
+## 🎯 Key Features
+
+- 🔐 User authentication (Teacher & Student roles)
+- 👨‍🏫 Teacher:
+  - View list of classes and students
+  - Create and review quiz questions
+  - View quiz results and performance recap
+- 👩‍🎓 Student:
+  - Take quizzes
+  - View personal scores
+
+## 🛠Technology Used
+- Flutter (Dart)
+- Firebase (Authentication & Database)
+
 
 ## Getting Started
 
